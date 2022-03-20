@@ -22,7 +22,7 @@ public class Example01 {
 		Iterator<Integer> numbersIterator = numbers.iterator();
 		while (numbersIterator.hasNext()) {
 			int value = (int) numbersIterator.next();
-			System.out.println("Item " + ": "+ value);
+			System.out.println("Item  " + ": "+ value);
 		} 
 
 	}
